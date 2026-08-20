@@ -1,66 +1,11 @@
 [
   {
-    "category": "Đồ dùng vệ sinh (Vệ sinh cá nhân)",
-    "items": [
-      {
-        "id": "c1",
-        "ja": "体温計",
-        "vi": "Nhiệt kế"
-      },
-      {
-        "id": "c2",
-        "ja": "マスク",
-        "vi": "Khẩu trang"
-      },
-      {
-        "id": "c3",
-        "ja": "除菌シート",
-        "vi": "Giấy ướt khử trùng"
-      },
-      {
-        "id": "c4",
-        "ja": "消毒液",
-        "vi": "Dung dịch khử trùng"
-      }
-    ]
-  },
-  {
-    "category": "Lương thực (Thực phẩm)",
-    "items": [
-      {
-        "id": "f1",
-        "ja": "飲料水",
-        "vi": "Nước uống"
-      },
-      {
-        "id": "f2",
-        "ja": "非常用食料",
-        "vi": "Đồ ăn trong trường hợp khẩn cấp"
-      }
-    ]
-  },
-  {
-    "category": "Vật phẩm y tế (Y tế)",
-    "items": [
-      {
-        "id": "m1",
-        "ja": "薬",
-        "vi": "Thuốc"
-      },
-      {
-        "id": "m2",
-        "ja": "救急セット",
-        "vi": "Bộ dụng cụ sơ cứu"
-      }
-    ]
-  },
-  {
-    "category": "Đồ quý giá",
+    "category": "Đồ quý giá (貴重品)",
     "items": [
       {
         "id": "v1",
-        "ja": "健康保険証",
-        "vi": "Thẻ bảo hiểm sức khỏe"
+        "ja": "現金（小銭も）",
+        "vi": "Tiền mặt (gồm cả tiền lẻ)"
       },
       {
         "id": "v2",
@@ -74,8 +19,158 @@
       },
       {
         "id": "v4",
-        "ja": "現金",
-        "vi": "Tiền mặt"
+        "ja": "健康保険証",
+        "vi": "Thẻ bảo hiểm y tế (Bản sao)"
+      },
+      {
+        "id": "v5",
+        "ja": "通帳・印鑑",
+        "vi": "Sổ tiết kiệm / Con dấu (Hankou)"
+      }
+    ]
+  },
+  {
+    "category": "Lương thực & Nước uống (食料・飲料)",
+    "items": [
+      {
+        "id": "f1",
+        "ja": "飲料水",
+        "vi": "Nước uống (ít nhất 3 ngày)"
+      },
+      {
+        "id": "f2",
+        "ja": "非常食（アルファ米、缶詰、ビスケット等）",
+        "vi": "Thực phẩm dự phòng (cơm alpha, đồ hộp, bánh quy...)"
+      },
+      {
+        "id": "f3",
+        "ja": "フルーツキャンディー・チョコレート",
+        "vi": "Kẹo trái cây / Chocolate (để bổ sung đường)"
+      }
+    ]
+  },
+  {
+    "category": "Y tế & Vệ sinh (医療・衛生用品)",
+    "items": [
+      {
+        "id": "m1",
+        "ja": "救急セット（絆創膏、包帯等）",
+        "vi": "Bộ sơ cứu (băng cá nhân, băng gạc...)"
+      },
+      {
+        "id": "m2",
+        "ja": "常備薬・お薬手帳",
+        "vi": "Thuốc thường dùng / Sổ tay thuốc"
+      },
+      {
+        "id": "c1",
+        "ja": "マスク",
+        "vi": "Khẩu trang"
+      },
+      {
+        "id": "c2",
+        "ja": "体温計",
+        "vi": "Nhiệt kế"
+      },
+      {
+        "id": "c3",
+        "ja": "除菌シート・消毒液",
+        "vi": "Giấy ướt khử trùng / Dung dịch sát khuẩn"
+      },
+      {
+        "id": "c4",
+        "ja": "簡易トイレ",
+        "vi": "Nhà vệ sinh di động/tạm thời"
+      },
+      {
+        "id": "c5",
+        "ja": "トイレットペーパー・ティッシュ",
+        "vi": "Giấy vệ sinh / Giấy ăn"
+      }
+    ]
+  },
+  {
+    "category": "Vật dụng thiết yếu & Phòng tránh nguy hiểm (日用品・防災用品)",
+    "items": [
+      {
+        "id": "d1",
+        "ja": "懐中電灯（ヘッドライト）",
+        "vi": "Đèn pin (hoặc đèn đeo trán)"
+      },
+      {
+        "id": "d2",
+        "ja": "携帯ラジオ",
+        "vi": "Radio cầm tay"
+      },
+      {
+        "id": "d3",
+        "ja": "予備電池・モバイルバッテリー",
+        "vi": "Pin dự phòng / Sạc dự phòng cho điện thoại"
+      },
+      {
+        "id": "d4",
+        "ja": "ヘルメット・防災頭巾",
+        "vi": "Mũ bảo hiểm / Mũ trùm đầu chống thiên tai"
+      },
+      {
+        "id": "d5",
+        "ja": "軍手",
+        "vi": "Găng tay lao động (bảo vệ tay)"
+      },
+      {
+        "id": "d6",
+        "ja": "エマージェンシーシート（アルミシート）",
+        "vi": "Tấm chăn giữ nhiệt (Aluminum sheet)"
+      },
+      {
+        "id": "d7",
+        "ja": "使い捨てカイロ",
+        "vi": "Túi chườm nóng (Kairo)"
+      },
+      {
+        "id": "d8",
+        "ja": "大判の風呂敷・ビニール袋",
+        "vi": "Khăn Furoshiki cỡ lớn / Túi nilon (Nhiều công dụng)"
+      },
+      {
+        "id": "d9",
+        "ja": "食品用ラップ",
+        "vi": "Màng bọc thực phẩm (Để bọc bát đĩa hoặc băng bó)"
+      }
+    ]
+  },
+  {
+    "category": "Đồ dùng cho đối tượng đặc biệt (乳幼児・高齢者用品)",
+    "items": [
+      {
+        "id": "s1",
+        "ja": "【乳幼児】粉ミルク・哺乳瓶",
+        "vi": "[Trẻ nhỏ] Sữa bột / Bình sữa"
+      },
+      {
+        "id": "s2",
+        "ja": "【乳幼児】紙おむつ・おしりふき",
+        "vi": "[Trẻ nhỏ] Tã giấy / Khăn ướt lau mông"
+      },
+      {
+        "id": "s3",
+        "ja": "【乳幼児】抱っこひも",
+        "vi": "[Trẻ nhỏ] Địu em bé"
+      },
+      {
+        "id": "s4",
+        "ja": "【高齢者】やわらかい食品（おかゆ等）",
+        "vi": "[Người già] Thức ăn mềm (Cháo...)"
+      },
+      {
+        "id": "s5",
+        "ja": "【高齢者】入れ歯洗浄剤",
+        "vi": "[Người già] Chất tẩy rửa răng giả"
+      },
+      {
+        "id": "s6",
+        "ja": "【高齢者】老眼鏡",
+        "vi": "[Người già] Kính viễn thị"
       }
     ]
   }

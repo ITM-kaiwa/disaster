@@ -27,11 +27,34 @@ export default function Home() {
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">Quiz Kiểm tra 📝</h5>
           <p className="font-normal text-gray-700">Kiểm tra lại kiến thức của bạn qua các câu hỏi trắc nghiệm.</p>
         </Link>
-        <a href="https://tabunka.tokyo-tsunagari.or.jp/disaster/movie.html" target="_blank" rel="noopener noreferrer" className="block p-6 bg-red-50 rounded-lg border border-red-200 shadow-sm hover:bg-red-100 md:col-span-2 text-center">
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-red-700">Video hướng dẫn (Tokyo) 🎥</h5>
-          <p className="font-normal text-red-600">Xem video đa ngôn ngữ về phòng chống thiên tai.</p>
-        </a>
       </div>
+
+      <section className="mt-8 space-y-4">
+        <h3 className="text-xl font-bold text-gray-800 border-b-2 border-red-500 pb-2">Liên kết hữu ích (お役立ちリンク)</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <a href="https://crisis.yahoo.co.jp/map/" target="_blank" rel="noopener noreferrer" className="block p-4 bg-blue-50 rounded-lg border border-blue-200 shadow-sm hover:bg-blue-100 flex items-center">
+            <span className="text-3xl mr-4">🗺️</span>
+            <div>
+              <h5 className="font-bold text-blue-800">Bản đồ Nơi lánh nạn</h5>
+              <p className="text-sm text-blue-600">避難場所マップ (Yahoo!)</p>
+            </div>
+          </a>
+          <a href="https://weather-report.yahoo.co.jp/map/hazard" target="_blank" rel="noopener noreferrer" className="block p-4 bg-orange-50 rounded-lg border border-orange-200 shadow-sm hover:bg-orange-100 flex items-center">
+            <span className="text-3xl mr-4">⚠️</span>
+            <div>
+              <h5 className="font-bold text-orange-800">Bản đồ Nguy hiểm (Hazard Map)</h5>
+              <p className="text-sm text-orange-600">ハザードマップ (Yahoo!)</p>
+            </div>
+          </a>
+          <a href="https://tabunka.tokyo-tsunagari.or.jp/disaster/movie.html" target="_blank" rel="noopener noreferrer" className="block p-4 bg-red-50 rounded-lg border border-red-200 shadow-sm hover:bg-red-100 md:col-span-2 flex items-center">
+            <span className="text-3xl mr-4">🎥</span>
+            <div>
+              <h5 className="font-bold text-red-800">Video hướng dẫn (Tokyo)</h5>
+              <p className="text-sm text-red-600">Xem video đa ngôn ngữ về phòng chống thiên tai.</p>
+            </div>
+          </a>
+        </div>
+      </section>
     </div>
   );
 }

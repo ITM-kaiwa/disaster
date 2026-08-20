@@ -1,0 +1,142 @@
+[
+  {
+    "id": "jishin",
+    "ja": "地震",
+    "kana": "じしん",
+    "vi": "Động đất",
+    "meaning": "Earthquake"
+  },
+  {
+    "id": "tsunami",
+    "ja": "津波",
+    "kana": "つなみ",
+    "vi": "Sóng thần",
+    "meaning": "Tsunami"
+  },
+  {
+    "id": "taifu",
+    "ja": "台風",
+    "kana": "たいふう",
+    "vi": "Bão",
+    "meaning": "Typhoon"
+  },
+  {
+    "id": "ooame",
+    "ja": "大雨",
+    "kana": "おおあめ",
+    "vi": "Mưa lớn",
+    "meaning": "Heavy rain"
+  },
+  {
+    "id": "kozui",
+    "ja": "洪水",
+    "kana": "こうずい",
+    "vi": "Lũ lụt",
+    "meaning": "Flood"
+  },
+  {
+    "id": "kaji",
+    "ja": "火事",
+    "kana": "かじ",
+    "vi": "Hỏa hoạn",
+    "meaning": "Fire"
+  },
+  {
+    "id": "hinan",
+    "ja": "避難",
+    "kana": "ひなん",
+    "vi": "Lánh nạn / Sơ tán",
+    "meaning": "Evacuation"
+  },
+  {
+    "id": "hinansho",
+    "ja": "避難所",
+    "kana": "ひなんじょ",
+    "vi": "Nơi lánh nạn",
+    "meaning": "Evacuation center"
+  },
+  {
+    "id": "hijoguchi",
+    "ja": "非常口",
+    "kana": "ひじょうぐち",
+    "vi": "Lối thoát hiểm",
+    "meaning": "Emergency exit"
+  },
+  {
+    "id": "shokaki",
+    "ja": "消火器",
+    "kana": "しょうかき",
+    "vi": "Bình chữa cháy",
+    "meaning": "Fire extinguisher"
+  },
+  {
+    "id": "kyukyusha",
+    "ja": "救急車",
+    "kana": "きゅうきゅうしゃ",
+    "vi": "Xe cứu thương",
+    "meaning": "Ambulance"
+  },
+  {
+    "id": "keisatsu",
+    "ja": "警察",
+    "kana": "けいさつ",
+    "vi": "Cảnh sát (110)",
+    "meaning": "Police"
+  },
+  {
+    "id": "shobosho",
+    "ja": "消防署",
+    "kana": "しょうぼうしょ",
+    "vi": "Trạm cứu hỏa (119)",
+    "meaning": "Fire station"
+  },
+  {
+    "id": "teiden",
+    "ja": "停電",
+    "kana": "ていでん",
+    "vi": "Mất điện",
+    "meaning": "Power outage"
+  },
+  {
+    "id": "dansui",
+    "ja": "断水",
+    "kana": "だんすい",
+    "vi": "Mất nước",
+    "meaning": "Water outage"
+  },
+  {
+    "id": "hijoshoku",
+    "ja": "非常食",
+    "kana": "ひじょうしょく",
+    "vi": "Thực phẩm dự phòng",
+    "meaning": "Emergency food"
+  },
+  {
+    "id": "kaichudento",
+    "ja": "懐中電灯",
+    "kana": "かいちゅうでんとう",
+    "vi": "Đèn pin",
+    "meaning": "Flashlight"
+  },
+  {
+    "id": "tasukete",
+    "ja": "助けて",
+    "kana": "たすけて",
+    "vi": "Cứu tôi với!",
+    "meaning": "Help me!"
+  },
+  {
+    "id": "nigete",
+    "ja": "逃げて",
+    "kana": "にげて",
+    "vi": "Chạy đi!",
+    "meaning": "Run!"
+  },
+  {
+    "id": "yure",
+    "ja": "揺れ",
+    "kana": "ゆれ",
+    "vi": "Sự rung lắc",
+    "meaning": "Tremor / Shaking"
+  }
+]

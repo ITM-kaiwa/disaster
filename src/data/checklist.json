@@ -1,0 +1,82 @@
+[
+  {
+    "category": "Đồ dùng vệ sinh (Vệ sinh cá nhân)",
+    "items": [
+      {
+        "id": "c1",
+        "ja": "体温計",
+        "vi": "Nhiệt kế"
+      },
+      {
+        "id": "c2",
+        "ja": "マスク",
+        "vi": "Khẩu trang"
+      },
+      {
+        "id": "c3",
+        "ja": "除菌シート",
+        "vi": "Giấy ướt khử trùng"
+      },
+      {
+        "id": "c4",
+        "ja": "消毒液",
+        "vi": "Dung dịch khử trùng"
+      }
+    ]
+  },
+  {
+    "category": "Lương thực (Thực phẩm)",
+    "items": [
+      {
+        "id": "f1",
+        "ja": "飲料水",
+        "vi": "Nước uống"
+      },
+      {
+        "id": "f2",
+        "ja": "非常用食料",
+        "vi": "Đồ ăn trong trường hợp khẩn cấp"
+      }
+    ]
+  },
+  {
+    "category": "Vật phẩm y tế (Y tế)",
+    "items": [
+      {
+        "id": "m1",
+        "ja": "薬",
+        "vi": "Thuốc"
+      },
+      {
+        "id": "m2",
+        "ja": "救急セット",
+        "vi": "Bộ dụng cụ sơ cứu"
+      }
+    ]
+  },
+  {
+    "category": "Đồ quý giá",
+    "items": [
+      {
+        "id": "v1",
+        "ja": "健康保険証",
+        "vi": "Thẻ bảo hiểm sức khỏe"
+      },
+      {
+        "id": "v2",
+        "ja": "在留カード",
+        "vi": "Thẻ lưu trú"
+      },
+      {
+        "id": "v3",
+        "ja": "パスポート",
+        "vi": "Hộ chiếu"
+      },
+      {
+        "id": "v4",
+        "ja": "現金",
+        "vi": "Tiền mặt"
+      }
+    ]
+  }
+]

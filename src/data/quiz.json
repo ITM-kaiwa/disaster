@@ -1,0 +1,50 @@
+[
+  {
+    "id": "q1",
+    "question": "Khi có động đất và bạn đang ở trong nhà, hành động đầu tiên bạn nên làm là gì?",
+    "options": [
+      "Chạy ngay ra ngoài đường",
+      "Chui xuống gầm bàn để bảo vệ đầu",
+      "Mở tivi xem tin tức",
+      "Gọi điện cho gia đình"
+    ],
+    "answer": 1,
+    "explanation": "Khi có động đất, điều quan trọng nhất là bảo vệ đầu khỏi các vật rơi vỡ bằng cách chui xuống gầm bàn hoặc các đồ nội thất chắc chắn."
+  },
+  {
+    "id": "q2",
+    "question": "Số điện thoại gọi cứu hỏa (xe cứu thương) tại Nhật Bản là số nào?",
+    "options": [
+      "110",
+      "119",
+      "112",
+      "911"
+    ],
+    "answer": 1,
+    "explanation": "Số 119 là số điện thoại khẩn cấp gọi xe cứu hỏa và xe cứu thương tại Nhật Bản. Số 110 là gọi cảnh sát."
+  },
+  {
+    "id": "q3",
+    "question": "Từ '避難所' (Hinansho) có nghĩa là gì?",
+    "options": [
+      "Bệnh viện",
+      "Cửa hàng tiện lợi",
+      "Nơi lánh nạn",
+      "Ga tàu điện"
+    ],
+    "answer": 2,
+    "explanation": "避難所 (Hinansho) nghĩa là nơi lánh nạn, sơ tán khi xảy ra thiên tai."
+  },
+  {
+    "id": "q4",
+    "question": "Khi có cảnh báo sóng thần (Tsunami), bạn cần phải làm gì?",
+    "options": [
+      "Ra biển xem sóng lớn cỡ nào",
+      "Lên vùng đất cao ngay lập tức",
+      "Trốn dưới gầm bàn",
+      "Đóng kín cửa sổ và ở yên trong nhà"
+    ],
+    "answer": 1,
+    "explanation": "Sóng thần rất nguy hiểm. Khi có cảnh báo sóng thần, bạn phải ngay lập tức chạy lên các vùng đất cao hoặc tòa nhà cao tầng."
+  }
+]
